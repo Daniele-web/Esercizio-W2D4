@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#results {
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+ul {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    list-style-type: none;
+}
+
+li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
